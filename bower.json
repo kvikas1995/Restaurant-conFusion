@@ -1,0 +1,26 @@
+`{
+  "name": "Restaurant ConFusion",
+  "homepage": "https://github.com/kvikas1995/Restaurant-conFusion",
+  "authors": [
+    "Vikas Kumar"
+  ],
+  "description": "Website for an Awesome Restaurant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Rstaurant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
